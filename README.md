@@ -1,6 +1,6 @@
 # Checklist diário
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1ce9dda0-3a63-4595-9a1e-94dcf1c9ac4f" />
+<img width="1012" height="813" alt="image" src="https://github.com/user-attachments/assets/bb1ce136-08ee-41b7-9c9b-135dde18e999" />
 
 ----
 
