@@ -68,8 +68,6 @@ Abra `atividades.js`.
 
 Mude o texto entre aspas do campo `texto`.
 
-Deixe o `id` como está.
-
 Antes:
 
 ```javascript
