@@ -16,7 +16,7 @@ Fechar essa janela encerra o aplicativo.
 
 ----
 
-| Tecla | Ação | Onde está no código |
+| Tecla | Ação | Localização |
 | --- | --- | --- |
 | Seta para cima / para baixo | Move entre as atividades | `public/app.js` |
 | Espaço | Marca ou desmarca | `public/app.js` |
