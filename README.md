@@ -1,5 +1,7 @@
 # Checklist diário
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1ce9dda0-3a63-4595-9a1e-94dcf1c9ac4f" />
+
 ----
 
 ## Como iniciar o aplicativo e os comandos
