@@ -107,6 +107,9 @@ futuras: {
   ],
 },
 ```
+No dia 8 de outubro aparece o todo dia que a pessoa coloca e também "Revisar a semana".
+
+Nos outros dias, essa atividade não aparece.
 
 ----
 
@@ -128,13 +131,6 @@ futuras: {
   },
 },
 ```
-
-Essa atividade entra só nesse dia, junto com a rotina normal.
-
-No dia 8 de outubro aparecem a rotina e também "Revisar a semana".
-
-Nos outros dias, essa atividade não aparece.
-
 ----
 
 O `id` novo não pode ser igual a um `id` que já está na rotina, porque os dois ficam na mesma tela nesse dia.
@@ -149,11 +145,9 @@ Abra o checklist e vá até o dia da atividade.
 
 Marque com a tecla espaço, do mesmo jeito que no dia de hoje.
 
-Essas teclas estão em `public/app.js`.
-
 ----
 
-Para chegar nesse dia:
+Para chegar em qualquer dia dia:
 
 - seta para a direita avança um dia
 - `N` pula para a próxima data que tem atividade própria
@@ -174,8 +168,6 @@ Quem grava esse arquivo é o `servidor.ps1`, quando a tela em `public/app.js` pe
 O `//` fica no começo da linha, dentro de `atividades.js`.
 
 Não mexa nas funções de `public/app.js`.
-
-----
 
 Para desligar uma atividade, coloque `//` na frente da linha dela:
 
