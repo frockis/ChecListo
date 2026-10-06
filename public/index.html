@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Checklist Diario</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="moldura">
+    <div class="tela" id="tela">
+      <div class="barra">
+        <span>C:\CHECKLIST\DIA.EXE</span>
+        <span id="relogio">00:00:00</span>
+      </div>
+      <div class="conteudo">
+        <p class="boot">Checklist Diario<br>atividades.js define a lista. dados\registro.json guarda o log.</p>
+        <div id="cabecalho"></div>
+        <div id="lista" class="lista" role="listbox" aria-label="Atividades do dia"></div>
+        <div id="teclas" class="teclas"></div>
+        <div id="prompt" class="prompt"></div>
+      </div>
+    </div>
+  </div>
+  <script src="/app.js"></script>
+</body>
+</html>
